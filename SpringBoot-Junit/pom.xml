@@ -60,7 +60,7 @@
 		<repository>
 			<id>spring-snapshots</id>
 			<name>Spring Snapshots</name>
-			<url>https://repo.spring.io/snapshot</url>
+			<url>https://repo.springsource.org/snapshot</url>
 			<snapshots>
 				<enabled>true</enabled>
 			</snapshots>
@@ -68,7 +68,7 @@
 		<repository>
 			<id>spring-milestones</id>
 			<name>Spring Milestones</name>
-			<url>https://repo.spring.io/milestone</url>
+			<url>https://repo.springsource.org/milestone</url>
 			<snapshots>
 				<enabled>false</enabled>
 			</snapshots>
@@ -78,7 +78,7 @@
 		<pluginRepository>
 			<id>spring-snapshots</id>
 			<name>Spring Snapshots</name>
-			<url>https://repo.spring.io/snapshot</url>
+			<url>https://repo.springsource.org/snapshot</url>
 			<snapshots>
 				<enabled>true</enabled>
 			</snapshots>
@@ -86,7 +86,7 @@
 		<pluginRepository>
 			<id>spring-milestones</id>
 			<name>Spring Milestones</name>
-			<url>https://repo.spring.io/milestone</url>
+			<url>https://repo.springsource.org/milestone</url>
 			<snapshots>
 				<enabled>false</enabled>
 			</snapshots>
